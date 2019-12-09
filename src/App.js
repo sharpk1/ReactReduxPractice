@@ -35,6 +35,3 @@ const App = () => {
 };
 
 export default App;
-
-//
-//style={{marginRight: spacing + 'em'}}
